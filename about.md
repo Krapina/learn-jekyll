@@ -6,4 +6,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hondza@gmail.com](mailto:hondza@gmail.com)

@@ -6,82 +6,94 @@ permalink: /blog/
 
 ![alt text](http://i.imgur.com/UF9NYkK.jpg "Header")
 
-## Cílová skupina
-Milovníci psů, chovatelé, zájemci o chov vlčáka
+Popis projektu 
 
-## Cíl webu
-Cílem webu je informovat návštěvníky o tom, co je to vlastně vlčák. Seznámit je s oficiálně uznanými plemeny, jejich historií, vzhledem, povahou, vztahem k člověku i jiným psům, vhodným výcvikem a jejich vzájemnými rozdíly. V neposlední řadě také vyvrátit některé mylné představy a předsudky vůči těmto psům. 
+1. Cílová skupina 
 
-## Název webu
-Wolfdog
+Vzhledem k tomu, že Jeden svět Tišnov je hlavně regionální záležitost s celorepublikovým přesahem, tak v prvé řadě cílíme na regionální kulturně zaměřené publikum 15–70 let. Jeden svět je festival dokumentů zaměřený na lidská práva, z čehož plyne i zaměření webu, který má za cíl představit festival publiku, které má zájem o film, aktuální dění, lidská práva.
 
-## Seznam zásadních webových zdrojů, které se věnují stejné oblasti
-<http://www.wolfdogs.cz/index.php/domu>
+2. Cíl webu 
 
-<http://www.cswolfdog.cz/>
+Cílem webu je představit festival Jeden svět Tišnov v celé své historii. To znamená, že chceme představit festival, jeho zaměření, historii, úspěchy i neúspěchy. Také bychom rádi prezentovali, proč je festival tohoto typu důležité, co od něj čekáme a naopak, co mohou diváci čekat od nás. Rádi bychom představili organizátory a dali nahlédnout trochu pod pokličku přípravám festivalu. V neposlední řadě je cílem i prezentace, která bude sloužit pro současné a budoucí sponzory akce.) 
 
-<https://www.saarloosuvvlcak.cz/>
+3. Název webu 
 
-<http://www.andreaundpeter.de/wahli/Homepage/gesamtus.html>
+Jeden svět Tišnov 
 
-<https://en.wikipedia.org/wiki/Wolfdog>
+4. Webové zdroje
+                
+https://www.jedensvet.cz/2017/
+          
 
-<http://www.tobrok.sk/lupo-italiano.htm>
+https://www.jsns.cz/
+         
 
-<https://en.wikipedia.org/wiki/Lupo_Italiano>
+https://www.promitejity.cz/
+      
+          
+http://www.dokument-festival.cz/
+          
 
-## Seznam zásadních ne-webových zdrojů, které se věnují stejné oblasti
+http://www.afo.cz/
+        
+  
+5. Newebové zdroje                 
+    
 
-HARTL, Karel a Jindřich JEDLIČKA. Československý vlčák. Praha: Loba ve spolupráci s Klubem chovatelů československého vlčáka, c1996. ISBN 80-239-1107-4.
+  Dějiny, film a lidská práva. [Praha: Člověk v tísni, 2010?]. 
+          
+  Člověk v tísni - výroční zpráva [online]. , 102 [cit. 2017-04-16]. Dostupné z: https://www.clovekvtisni.cz/uploads/file/1470749123-CVT_VZ2015_navigace_lg_fin.pdf
 
-KVASNICA, Jaroslav Monte. Krajina s vlky: Honba za přízrakem Gévaudanu. 1. vydání. Ilustrace Ludvík Kunc. České Budějovice: Élysion, 2009. ISBN 9788090345928.
+                  
+  ATTILA, Jozef. Jeden svět. Praha: Argo, 1999. ISBN 80-720-3204-6.
+      
+          
+  JANOVSKÁ, Ludmila. Jeden svět na školách: projekt společnosti Člověk v tísni : vzdělávání prostřednictvím dokumentárních filmů. Praha: Člověk v tísni - společnost při ČT, 2005. ISBN 80-869-6108-7.</li>
 
-KVASNICA, Jaroslav Monte. Krajina s vlky: Rapsodie šedých stínů. 1. vydání. České Budějovice: Élysion, 2009. ISBN 9788090345911.
+             
+  JANOVSKÁ, Ludmila. Příběhy bezpráví: projekt společnosti Člověk v tísni : .. ročník .. Praha: Člověk v tísni - společnost při ČT, 2006. ISBN 80-869-6107-9.</li>
 
-CÍSAŘOVSKÝ, Michal. Pes: nekonečný příběh od pravěku do třetího tisíciletí. Vyd. 1. Praha: Canis, 2008. ISBN 9788090082014.
+                
+6. Videa a obrázky (odkazy) 
+    
+                
+             
+Vzhledem k tomu, že jsem jeden z organizátorů festivalu, tak fotografie jsou většinou v mém vlastnictví nebo ve vlastnictví dalších organizátorů.
 
-FOGLE, Bruce. Velká encyklopedie psů: kompletní průvodce světem psů. 5. vyd., Ve Slovartu 1. Překlad Kateřina Ševčíková, Helena Kholová. Praha: Slovart, 2012. ISBN 9788073914813.
+https://www.facebook.com/jeden.svet.tisnov/
+          
+  
+https://www.facebook.com/jedensvet/?fref=ts
+          
 
-ŘÍHA, Martin. Plemena psů: všechna plemena uznaná FCI. 1. vyd. Olomouc: Rubico, 2009. ISBN 9788073461058.
+ Základní obsah k tématu 
+              
+         
 
-## Dostupná multimédia (obrázky, videa atp.)
-<http://www.ceskatelevize.cz/ivysilani/10658625776-polopate/215562220400001/obsah/379400-ceskoslovensky-vlcak/>
+ Festival Jeden svět
+                     <
+ Program
+          
+          
+Historie
+          
+ Promítací místa
+          
+          
+Doprovodné akce 
+          
+ Školní projekce
+                     < 
+          
+Fotogalerie  
+          
+Partneři festivalu
+                    
+          
+ Kontakt   
+          
 
-<http://www.inzerce-psu.com/fotogalerie/ceskoslovensky-vlcak/>
+ 8. Strategii zveřejňování obsahu 
 
-<https://www.flickr.com/photos/lupoitaliano/>
-
-<https://www.wolfdog.org/gallery/>
-
-<https://www.youtube.com/watch?v=_9R_DOzH34U/>
-
-<https://www.youtube.com/watch?v=Pyl5Y-bJfhQ/>
-
-<https://www.youtube.com/watch?v=aTUcJBrqZfA/>
-
-<https://www.youtube.com/watch?v=qTI6xP4RjGw/>
-
-<https://www.youtube.com/watch?v=GRG08cROefI/>
-
-## Vizuální inspirace pro budoucí vzhled webu (weby, obrázky, designové prvky atp.)
-
-Dizajnové prvky: jednoduchý jednostĺpcový layout, farebnosť: šedé pozadie, bledá stránka, čierny text. Poprípade obrázok vlčáka v záhlaví.
-
-Hlavny obrázok použitý pri každom článku, pod obrázkom perex a „čítať ďalej“.
-
-## Základní obsah k tématu
-
-* Co je vlčák?
-* Uznaná plemena
-* Historie jednotlivých plemen
-* Vzhled
-* Povaha
-* Vztah k člověku
-* Vztah k jiným psům
-* Výchova a výcvik
-* Vzájemné rozdíly
-* Chovatelské stanice v ČR
-
-## Strategie zveřejňování obsahu: jaké informace a jakým způsobem budeme zveřejňovat
-
-Tri plemena vlčáka rozdelených do samotných sekcií (historia, vzhlad, atď.)
+ Cílem je mít stabilní základní strukturu webu s všeobecnými informace včetně historie, fotogalerie, kontaktů atd. a mít možnost vždy v rámci konání nového ročníku web aktualizovat, aby web sloužil jako zdroj pro nový ročník a zároveň během celého roku přinesl info o celém festivalu. 
+    
