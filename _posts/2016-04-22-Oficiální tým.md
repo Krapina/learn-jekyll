@@ -4,16 +4,12 @@ title: Oficiální tým blogu Wolfdog
 ---
 Stručné představení týmu autorů tohoto blogu.
 
-## 1. člen
-Jméno: Katka Burešová
+Jan Pernica
+Milovník filmových světů a zvláště toho jednoho. Honza bude mít na starosti obsah webu, jeho strukturu a celkovou provázanost, protože je jedním z organizátorů festivalu a měl by vše vědět nebo to aspoň předstírat. Z NAMI má taky hodně bodů, ale ne tolik jako Klára.
 
-E-mail: BuresKai@seznam.cz
 
-Motivace: Začala jsem se o vlčáky zajímat od chvíle, kdy jsme si s rodinou pořídili fenu československého vlčáka, která nás za ty roky dokázala v mnohém překvapit. 
-
-## 2. člen
-Meno: Michal Karkaš
-
-E-mail: michal.karkas@yahoo.com
-
-Motivácia: Vlčiaci sú mi blízky, a taktiež popri informovaní ľudí o vlčiakoch očakávam, že sa o nich naučím dosť veľa aj ja.
+Klára Weiss 
+Milovnice matematiky a zvláště matic :-). Klára bude mít na starost především technickou stránku věci (kód a layout), protože je v tom dobrá a navíc má z NAMI neustále plný počet bodů.
+                
+                
+       
