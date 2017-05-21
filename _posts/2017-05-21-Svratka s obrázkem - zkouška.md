@@ -2,6 +2,6 @@
 layout: post
 title: Svratka s obrázkem - zkouška
 ---
-![Svratka](/images/Svratka.png)
+![Svratka](/images/Svratka.jpg)
 
 Svratka s obrázkem
