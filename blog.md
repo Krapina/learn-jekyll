@@ -4,7 +4,7 @@ title: O Blogu
 permalink: /blog/
 ---
 
-![alt text](http://i.imgur.com/UF9NYkK.jpg "Header")
+![alt text](http://www.imgup.cz/images/2017/05/21/logo-Jeden-svet-600x337.png "Header")
 
 Popis projektu 
 
