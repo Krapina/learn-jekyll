@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Wolfdog
+name: Jeden svět Tišnov
 
 # Short bio or description (displayed in the header)
-description: Jeden nadšenec z České republiky a druhý ze Slovenska
+description: Festival dokumentárních filmů o lidských právech
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://i.imgur.com/R88grVp.png
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-77335165-1
+google_analytics: UA-98477017-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
